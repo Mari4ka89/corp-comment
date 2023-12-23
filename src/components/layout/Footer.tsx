@@ -1,4 +1,3 @@
-// TODO: specify link to GitHub, update text.
 export default function Footer() {
   return (
     <footer className="footer">
@@ -6,7 +5,7 @@ export default function Footer() {
         <p>&copy; Copyright by Mariia Bezrukava.</p>
         <p>
           This project is open-source on{" "}
-          <a target="_blank" href="">
+          <a target="_blank" href="https://github.com/Mari4ka89/corp-comment">
             GitHub.
           </a>
         </p>
